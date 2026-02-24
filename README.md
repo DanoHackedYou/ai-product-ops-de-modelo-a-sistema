@@ -1,5 +1,3 @@
-# ai-product-ops-de-modelo-a-sistema
-
 # AI Product Ops: De Modelo a Sistema (DSI · ITSM · SRE/Compliance)
 
 App multipágina en **Streamlit** para diseñar y justificar un sistema de IA operable en producción:
